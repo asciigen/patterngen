@@ -1,2 +1,2 @@
 # patterngen
-This repository contains source codes to generate ASCII patterns
+This repository contains source codes to generate ASCII patterns for console applications.
